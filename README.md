@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Fun fact: I don't know why I'm getting into GitHub at all!
 <!--
 **Paper-Bird2/Paper-Bird2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
